@@ -1,0 +1,7 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+*.gz
+*-kubeconfig
+tf.json
+
