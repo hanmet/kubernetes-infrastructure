@@ -16,7 +16,7 @@ scripts and how to provision a Kubernetes cluster using KubeOne.
 
 `kubeone install config.yaml --tfjson .`
 
-`copy kubeconfig file to ~/.kube`
+`cp hannes-kubeconfig ~/.kube`
 
 `export KUBECONFIG=~/.kube/hannes-kubeconfig`
 
